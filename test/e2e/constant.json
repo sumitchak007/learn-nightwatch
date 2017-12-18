@@ -1,0 +1,92 @@
+[
+    {
+        "f1": "0742869631",
+        "f2": "Wolf Point High School",
+        "f3": "3000875",
+        "f4": "213 6th Ave South",
+        "f5": "9-12",
+        "f6": 1,
+        "f7": "public"
+    },
+    {
+        "f1": "0732861211",
+        "f2": "Gardiner Regional Middle School",
+        "f3": "2300285",
+        "f4": "161 Cobbossee Ave",
+        "f5": "6-8",
+        "f6": 4,
+        "f7": "public"
+    },
+    {
+        "f1": "0712873101",
+        "f2": "St Mary",
+        "f3": "0901117",
+        "f4": "55 Cole Street",
+        "f5": "PK-8",
+        "f6": null,
+        "f7": "private"
+    },
+    {
+        "f1": "0725728301",
+        "f2": "Mary Evelyn Castle Elementary School",
+        "f3": "1800981",
+        "f4": "8502 East 82nd Street",
+        "f5": "1-6",
+        "f6": 4,
+        "f7": "public"
+    },
+    {
+        "f1": "0764307101",
+        "f2": "Round Top Elementary School",
+        "f3": "4501497",
+        "f4": "449 Rimer Pond Road",
+        "f5": "PK-5",
+        "f6": 7,
+        "f7": "public"
+    },
+    {
+        "f1": "0748697431",
+        "f2": "FlexSchool",
+        "f3": "3408821",
+        "f4": "250 South Avenue",
+        "f5": "5-12",
+        "f6": null,
+        "f7": "private"
+    },
+    {
+        "f1": "0744295721",
+        "f2": "Fort Calhoun Elementary School",
+        "f3": "3100701",
+        "f4": "1120 Monroe St",
+        "f5": "PK-6",
+        "f6": 8,
+        "f7": "public"
+    },
+    {
+        "f1": "0717325851",
+        "f2": "Sandlake Christian Academy",
+        "f3": "1212811",
+        "f4": "5838 Hoffner Ave",
+        "f5": "K, 3, 6-8, 10, 12",
+        "f6": null,
+        "f7": "private"
+    },
+    {
+        "f1": "0717324031",
+        "f2": "Ponte Vedra High School",
+        "f3": "1212683",
+        "f4": "460 Davis Park Rd",
+        "f5": "9-12",
+        "f6": 9,
+        "f7": "public"
+    },
+    {
+        "f1": "0730059531",
+        "f2": "Martha Layne Collins High School",
+        "f3": "2104168",
+        "f4": "1155 West Main St",
+        "f5": "8-12",
+        "f6": 8,
+        "f7": "public"
+    }
+]
